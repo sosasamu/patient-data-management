@@ -16,6 +16,7 @@ For this project I choose expo to initialize it based on React Native recomendat
 - [react hook form](https://react-hook-form.com/get-started) to handle form.
 - [react-native-toast-message](https://github.com/calintamas/react-native-toast-message) to manage toast messages.
 - [expo-file-syste](https://docs.expo.dev/versions/latest/sdk/filesystem/) to manage images upload.
+- [expo fontAwesomeIcons](https://icons.expo.fyi/Index) icons that appears in the app.
 
 ## Installation
 
